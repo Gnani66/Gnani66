@@ -71,10 +71,10 @@ I enjoy solving engineering problems, designing applications from the ground up,
 ### 🗄️ Databases & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,github,linux" alt="Databases & Infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github" alt="Databases & Infrastructure"/>
 </p>
 
-**Databases:** PostgreSQL • MongoDB • MySQL • Redis • Supabase • Firebase  
+**Databases:** PostgreSQL • MongoDB • MySQL • Supabase  
 **Infrastructure:** Docker • Docker Compose • Git • GitHub • Vercel
 
 ---
@@ -220,10 +220,25 @@ I enjoy solving engineering problems, designing applications from the ground up,
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-### 💡 Build. Learn. Solve. Improve.
+I'm interested in **Full-Stack Development, AI/ML, Computer Vision, IoT, Blockchain and building practical software systems.**
 
-<i>Turning ideas into working software.</i>
+<br/>
+
+<a href="https://github.com/gnani66">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/gnanesh-mv/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://www.geeksforgeeks.org/profile/gnanesz4pi">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+<a href="mailto:gnaneshmv99@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
