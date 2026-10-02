@@ -82,7 +82,7 @@ I enjoy solving engineering problems, designing applications from the ground up,
 ### 🔗 Blockchain & Web3
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,hardhat,ipfs" alt="Blockchain & Web3"/>
+  <img src="https://skillicons.dev/icons?i=solidity,ipfs" alt="Blockchain & Web3"/>
 </p>
 
 **Blockchain:** Solidity • Ethereum • Polygon • Smart Contracts  
@@ -204,9 +204,18 @@ I enjoy solving engineering problems, designing applications from the ground up,
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-181717?style=for-the-badge" alt="MERN Stack"/>
-  <img src="https://img.shields.io/badge/AI%2FML-181717?style=for-the-badge" alt="AI/ML"/>
-  <img src="https://img.shields.io/badge/Cloud-181717?style=for-the-badge" alt="Cloud"/>
+  <img
+    src="https://img.shields.io/badge/MERN%20Stack-181717?style=for-the-badge"
+    alt="MERN Stack"
+  />
+  <img
+    src="https://img.shields.io/badge/AI%2FML-181717?style=for-the-badge"
+    alt="AI/ML"
+  />
+  <img
+    src="https://img.shields.io/badge/Cloud-181717?style=for-the-badge"
+    alt="Cloud"
+  />
 </p>
 
 ---
