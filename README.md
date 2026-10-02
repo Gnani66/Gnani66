@@ -1,42 +1,44 @@
-<h1 align="center">Hi 👋, I'm Gnanesh M V</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineering Student | MERN Stack & AI/ML Developer
-</h3>
+# 👋 Hi, I'm Gnanesh M V
 
-<p align="center">
+### Computer Science Engineering Student • MERN Stack • AI/ML • Software Engineering
+
+<p>
   <a href="https://github.com/gnani66">
-    <img src="https://img.shields.io/badge/GITHUB-gnani66-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-gnani66-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/gnanesh-mv/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Gnanesh%20M%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Gnanesh%20M%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/gnanesz4pi">
-    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-gnanesz4pi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gnanesz4pi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
   <a href="mailto:gnaneshmv99@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gnani66&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=gnani66&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Computer Science Engineering student and software developer** focused on building practical and reliable software systems.
+I'm a **Computer Science Engineering student and software developer** focused on building practical software systems across **MERN Stack, AI/ML, IoT, and Blockchain**.
 
-I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest in software engineering, problem solving, backend systems, and building applications that solve real-world problems.
+I enjoy solving engineering problems, designing applications from the ground up, and learning by building systems that combine software, data, and emerging technologies.
 
-- 💻 Building full-stack applications with **React, Next.js, Node.js, Express & MongoDB**
-- 🤖 Exploring **AI/ML, Computer Vision and intelligent applications**
-- 🧩 Interested in **backend engineering, system design and software architecture**
-- 📡 Building **IoT and real-time systems**
-- 🔗 Exploring **Blockchain, Smart Contracts and Web3**
-- 🧠 Focused on **DSA, problem solving and clean code**
+- 💻 Full-Stack Development with **React, Next.js, Node.js, Express & MongoDB**
+- 🤖 Exploring **AI/ML, Computer Vision & Generative AI**
+- 🧩 Interested in **Backend Engineering, System Design & Software Architecture**
+- 📡 Building **IoT & Real-Time Systems**
+- 🔗 Exploring **Blockchain, Smart Contracts & Web3**
+- 🧠 Focused on **DSA, problem solving & clean code**
 - 🌱 Currently learning **MERN Stack, AI/ML & Cloud Technologies**
 
 ---
@@ -46,68 +48,59 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 ### 🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI & Machine Learning"/>
 </p>
 
-**AI/ML:** Python • TensorFlow • PyTorch • Computer Vision • YOLO • Generative AI
+**AI/ML:** Python • PyTorch • TensorFlow • OpenCV • Scikit-learn • YOLO • Computer Vision • Generative AI
 
 ---
 
 ### 💻 Software Engineering
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,express" alt="Software Engineering"/>
 </p>
 
-**Development:** React • Next.js • Node.js • Express • TypeScript • JavaScript • Python • C++ • FastAPI • Tailwind CSS
+**Frontend:** React • Next.js • TypeScript • JavaScript • Tailwind CSS  
+**Backend:** Node.js • Express • FastAPI  
+**Programming:** Python • C • C++ • Java
 
 ---
 
 ### 🗄️ Databases & Infrastructure
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,github,linux" alt="Databases & Infrastructure"/>
 </p>
 
-**Databases:** MongoDB • PostgreSQL • MySQL • Supabase • Firebase  
-**Infrastructure:** Docker • Docker Compose • Git • GitHub
+**Databases:** PostgreSQL • MongoDB • MySQL • Redis • Supabase • Firebase  
+**Infrastructure:** Docker • Docker Compose • Git • GitHub • Vercel
 
 ---
 
 ### 🔗 Blockchain & Web3
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="45" height="45" alt="Solidity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="45" height="45" alt="Ethereum"/>
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,hardhat,ipfs" alt="Blockchain & Web3"/>
 </p>
 
-**Web3:** Solidity • Smart Contracts • Ethereum • Hardhat • Ethers.js • IPFS
+**Web3:** Solidity • Ethereum • Smart Contracts • Hardhat • Ethers.js • IPFS • Polygon
 
 ---
 
 ### 📡 IoT & Real-Time Systems
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/espressif" alt="ESP32" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/mqtt" alt="MQTT" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python,docker" alt="IoT & Real-Time Systems"/>
 </p>
 
-**Systems:** ESP32 • MQTT • Mosquitto • WebSockets • Real-Time Monitoring • Sensor Integration
+**Systems:** ESP32 • MQTT • Mosquitto • WebSockets • Sensor Integration • Real-Time Monitoring • Wokwi
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <p align="center">
 
@@ -135,26 +128,24 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 
 <p align="center">
   <a href="https://github.com/gnani66?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gnani66&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&theme=tokyonight"
-    alt="GitHub Stats"
-    height="180"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani66&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-    alt="Top Languages"
-    height="180"
-  />
+<a href="https://github.com/gnani66">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gnani66&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/gnani66">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani66&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+</a>
+
 </p>
 
 ---
@@ -162,10 +153,9 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=gnani66&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <a href="https://github.com/gnani66">
+    <img src="https://streak-stats.demolab.com/?user=gnani66&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  </a>
 </p>
 
 ---
@@ -173,10 +163,9 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gnani66&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
-  />
+  <a href="https://github.com/gnani66">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnani66&theme=tokyo-night&hide_border=true&area=true&custom_title=Gnanesh's%20Contribution%20Activity" alt="GitHub Contribution Activity"/>
+  </a>
 </p>
 
 ---
@@ -184,11 +173,9 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 ## 📅 Contribution Overview
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnani66&theme=tokyonight"
-    alt="GitHub Contribution Overview"
-    width="95%"
-  />
+  <a href="https://github.com/gnani66">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnani66&theme=tokyonight" alt="Contribution Overview" width="95%"/>
+  </a>
 </p>
 
 ---
@@ -197,20 +184,16 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-181717?style=for-the-badge" alt="MERN Stack"/>
-  <img src="https://img.shields.io/badge/AI%2FML-181717?style=for-the-badge" alt="AI ML"/>
-  <img src="https://img.shields.io/badge/Cloud%20Technologies-181717?style=for-the-badge" alt="Cloud Technologies"/>
+  <img src="https://img.shields.io/badge/AI%2FML-181717?style=for-the-badge" alt="AI/ML"/>
+  <img src="https://img.shields.io/badge/Cloud-181717?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud"/>
 </p>
 
 ---
 
-<p align="center">
-  <b>Build. Learn. Solve. Improve.</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Turning ideas into working software.</i>
-</p>
+### 💡 Build. Learn. Solve. Improve.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" alt="Footer"/>
-</p>
+<i>Turning ideas into working software.</i>
+
+</div>
