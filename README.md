@@ -71,10 +71,10 @@ I enjoy solving engineering problems, designing applications from the ground up,
 ### 🗄️ Databases & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github" alt="Databases & Infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,github,linux" alt="Databases & Infrastructure"/>
 </p>
 
-**Databases:** PostgreSQL • MongoDB • MySQL • Supabase  
+**Databases:** PostgreSQL • MongoDB • MySQL • Redis • Supabase  
 **Infrastructure:** Docker • Docker Compose • Git • GitHub • Vercel
 
 ---
@@ -197,25 +197,6 @@ I enjoy solving engineering problems, designing applications from the ground up,
       width="95%"
     />
   </a>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/MERN%20Stack-181717?style=for-the-badge"
-    alt="MERN Stack"
-  />
-  <img
-    src="https://img.shields.io/badge/AI%2FML-181717?style=for-the-badge"
-    alt="AI/ML"
-  />
-  <img
-    src="https://img.shields.io/badge/Cloud-181717?style=for-the-badge"
-    alt="Cloud"
-  />
 </p>
 
 ---
