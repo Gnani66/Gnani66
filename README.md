@@ -6,14 +6,21 @@ Computer Science Engineering Student | MERN Stack & AI/ML Developer
 
 <p align="center">
   <a href="https://github.com/gnani66">
-    <img src="https://komarev.com/ghpvc/?username=gnani66&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/GITHUB-gnani66-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/gnani66?tab=repositories">
-    <img src="https://img.shields.io/github/repos/gnani66?style=for-the-badge&logo=github" alt="Repositories" />
+  <a href="https://www.linkedin.com/in/gnanesh-mv/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Gnanesh%20M%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/gnani66?tab=stars">
-    <img src="https://img.shields.io/github/stars/gnani66?affiliations=OWNER&style=for-the-badge&logo=github" alt="Stars" />
+  <a href="https://www.geeksforgeeks.org/profile/gnanesz4pi">
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-gnanesz4pi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
+  <a href="mailto:gnaneshmv99@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gnani66&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -33,22 +40,6 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 - 🧠 Strong focus on **DSA, problem solving and clean, maintainable code**
 - 🌱 Currently learning **MERN Stack, AI/ML & Cloud Technologies**
 - 💡 I enjoy building projects, experimenting with new technologies, and solving real engineering problems
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/gnanesh-mv" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="42" height="42"/>
-  </a>
-  <a href="https://instagram.com/gnanesh_.66" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="42" height="42"/>
-  </a>
-  <a href="mailto:gnaneshmv99@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="42" height="42"/>
-  </a>
-</p>
 
 ---
 
@@ -104,25 +95,27 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 
 <p align="center">
   <a href="https://github.com/gnani66/civicly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=civicly&theme=tokyonight&hide_border=true" alt="Civicly"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=gnani66&repo=civicly&theme=tokyonight&hide_border=true" alt="Civicly"/>
   </a>
+
   <a href="https://github.com/gnani66/money-muling-detection-rift-2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=money-muling-detection-rift-2026&theme=tokyonight&hide_border=true" alt="Money Muling Detection"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=gnani66&repo=money-muling-detection-rift-2026&theme=tokyonight&hide_border=true" alt="Money Muling Detection"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/gnani66/MentorLoop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=MentorLoop&theme=tokyonight&hide_border=true" alt="MentorLoop"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=gnani66&repo=MentorLoop&theme=tokyonight&hide_border=true" alt="MentorLoop"/>
   </a>
+
   <a href="https://github.com/gnani66/aptos-counter-dapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=aptos-counter-dapp&theme=tokyonight&hide_border=true" alt="Aptos Counter DApp"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=gnani66&repo=aptos-counter-dapp&theme=tokyonight&hide_border=true" alt="Aptos Counter DApp"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/gnani66?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
   </a>
 </p>
 
@@ -132,12 +125,13 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gnani66&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=gnani66&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&theme=tokyonight"
     alt="GitHub Stats"
     height="180"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani66&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gnani66&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
     alt="Top Languages"
     height="180"
   />
@@ -173,42 +167,33 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnani66&theme=tokyonight"
     alt="GitHub Contribution Overview"
+    width="95%"
   />
-</p>
-
----
-
-## 💻 Development Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-0A0A0A?style=for-the-badge" alt="Full Stack Development"/>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-0A0A0A?style=for-the-badge" alt="AI ML"/>
-  <img src="https://img.shields.io/badge/Backend%20Engineering-0A0A0A?style=for-the-badge" alt="Backend Engineering"/>
-  <img src="https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge" alt="IoT"/>
-  <img src="https://img.shields.io/badge/Blockchain-0A0A0A?style=for-the-badge" alt="Blockchain"/>
 </p>
 
 ---
 
 ## 🎯 Current Learning
 
-- MERN Stack
-- AI/ML
-- Cloud Technologies
-- System Design
-- Advanced Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-181717?style=for-the-badge" alt="MERN Stack"/>
+  <img src="https://img.shields.io/badge/AI%2FML-181717?style=for-the-badge" alt="AI ML"/>
+  <img src="https://img.shields.io/badge/Cloud%20Technologies-181717?style=for-the-badge" alt="Cloud Technologies"/>
+</p>
 
 ---
 
 ## 💡 Developer Philosophy
 
-> **Build. Learn. Solve. Improve.**
-
----
+<p align="center">
+  <b>Build. Learn. Solve. Improve.</b>
+</p>
 
 <p align="center">
-  <i>Building systems, learning continuously, and turning ideas into code.</i>
+  <i>Turning ideas into working software.</i>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" alt="Footer"/>
