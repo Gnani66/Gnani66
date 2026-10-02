@@ -31,9 +31,9 @@
 
 I'm a **Computer Science Engineering student and software developer** focused on building practical software systems across **MERN Stack, AI/ML, IoT, and Blockchain**.
 
-I enjoy solving engineering problems, designing applications from the ground up, and learning by building systems that combine software, data, and emerging technologies.
+I enjoy solving engineering problems, designing applications from the ground up, and building systems that combine software, data, and emerging technologies.
 
-- 💻 Full-Stack Development with **React, Next.js, Node.js, Express & MongoDB**
+- 💻 Building full-stack applications with **React, Next.js, Node.js, Express & MongoDB**
 - 🤖 Exploring **AI/ML, Computer Vision & Generative AI**
 - 🧩 Interested in **Backend Engineering, System Design & Software Architecture**
 - 📡 Building **IoT & Real-Time Systems**
@@ -45,13 +45,14 @@ I enjoy solving engineering problems, designing applications from the ground up,
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI & Machine Learning
+### 🤖 AI / Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI & Machine Learning"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI / Machine Learning"/>
 </p>
 
-**AI/ML:** Python • PyTorch • TensorFlow • OpenCV • Scikit-learn • YOLO • Computer Vision • Generative AI
+**AI/ML:** Python • PyTorch • TensorFlow • Scikit-learn • YOLO  
+**AI Domains:** Computer Vision • Generative AI • Machine Learning
 
 ---
 
@@ -84,19 +85,21 @@ I enjoy solving engineering problems, designing applications from the ground up,
   <img src="https://skillicons.dev/icons?i=solidity,ethereum,hardhat,ipfs" alt="Blockchain & Web3"/>
 </p>
 
-**Web3:** Solidity • Ethereum • Smart Contracts • Hardhat • Ethers.js • IPFS • Polygon
+**Blockchain:** Solidity • Ethereum • Polygon • Smart Contracts  
+**Development:** Hardhat • Ethers.js • IPFS • MetaMask
 
 ---
 
 ### 📡 IoT & Real-Time Systems
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/espressif" alt="ESP32" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/mqtt" alt="MQTT" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/espressif" width="48" height="48" alt="ESP32"/>
+  <img src="https://cdn.simpleicons.org/mqtt" width="48" height="48" alt="MQTT"/>
   <img src="https://skillicons.dev/icons?i=python,docker" alt="IoT & Real-Time Systems"/>
 </p>
 
-**Systems:** ESP32 • MQTT • Mosquitto • WebSockets • Sensor Integration • Real-Time Monitoring • Wokwi
+**IoT:** ESP32 • MQTT • Mosquitto • Sensor Integration  
+**Real-Time:** WebSockets • Real-Time Monitoring • Wokwi
 
 ---
 
@@ -105,11 +108,11 @@ I enjoy solving engineering problems, designing applications from the ground up,
 <p align="center">
 
 <a href="https://github.com/gnani66/civicly">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=civicly&theme=tokyonight&hide_border=true" alt="Civicly"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=civicly&theme=tokyonight&hide_border=true" alt="Civicly"/>
 </a>
 
 <a href="https://github.com/gnani66/money-muling-detection-rift-2026">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=money-muling-detection-rift-2026&theme=tokyonight&hide_border=true" alt="Money Muling Detection"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=money-muling-detection-rift-2026&theme=tokyonight&hide_border=true" alt="Money Muling Detection"/>
 </a>
 
 </p>
@@ -117,11 +120,11 @@ I enjoy solving engineering problems, designing applications from the ground up,
 <p align="center">
 
 <a href="https://github.com/gnani66/MentorLoop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=MentorLoop&theme=tokyonight&hide_border=true" alt="MentorLoop"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=MentorLoop&theme=tokyonight&hide_border=true" alt="MentorLoop"/>
 </a>
 
 <a href="https://github.com/gnani66/aptos-counter-dapp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=aptos-counter-dapp&theme=tokyonight&hide_border=true" alt="Aptos Counter DApp"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=aptos-counter-dapp&theme=tokyonight&hide_border=true" alt="Aptos Counter DApp"/>
 </a>
 
 </p>
@@ -139,11 +142,19 @@ I enjoy solving engineering problems, designing applications from the ground up,
 <p align="center">
 
 <a href="https://github.com/gnani66">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gnani66&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=gnani66&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </a>
 
 <a href="https://github.com/gnani66">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani66&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani66&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    alt="Top Languages"
+  />
 </a>
 
 </p>
@@ -154,7 +165,10 @@ I enjoy solving engineering problems, designing applications from the ground up,
 
 <p align="center">
   <a href="https://github.com/gnani66">
-    <img src="https://streak-stats.demolab.com/?user=gnani66&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+    <img
+      src="https://streak-stats.demolab.com/?user=gnani66&theme=tokyonight&hide_border=true"
+      alt="GitHub Contribution Streak"
+    />
   </a>
 </p>
 
@@ -164,7 +178,10 @@ I enjoy solving engineering problems, designing applications from the ground up,
 
 <p align="center">
   <a href="https://github.com/gnani66">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnani66&theme=tokyo-night&hide_border=true&area=true&custom_title=Gnanesh's%20Contribution%20Activity" alt="GitHub Contribution Activity"/>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=gnani66&theme=tokyo-night&hide_border=true&area=true&custom_title=Gnanesh's%20Contribution%20Activity"
+      alt="GitHub Contribution Activity"
+    />
   </a>
 </p>
 
@@ -174,7 +191,11 @@ I enjoy solving engineering problems, designing applications from the ground up,
 
 <p align="center">
   <a href="https://github.com/gnani66">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnani66&theme=tokyonight" alt="Contribution Overview" width="95%"/>
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnani66&theme=tokyonight"
+      alt="Contribution Overview"
+      width="95%"
+    />
   </a>
 </p>
 
@@ -185,7 +206,7 @@ I enjoy solving engineering problems, designing applications from the ground up,
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-181717?style=for-the-badge" alt="MERN Stack"/>
   <img src="https://img.shields.io/badge/AI%2FML-181717?style=for-the-badge" alt="AI/ML"/>
-  <img src="https://img.shields.io/badge/Cloud-181717?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/Cloud-181717?style=for-the-badge" alt="Cloud"/>
 </p>
 
 ---
