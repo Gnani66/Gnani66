@@ -27,90 +27,110 @@ Computer Science Engineering Student | MERN Stack & AI/ML Developer
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Engineering student and software developer** focused on building practical, reliable, and user-focused applications.
+I'm a **Computer Science Engineering student and software developer** focused on building practical and reliable software systems.
 
-I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest in software engineering, problem solving, backend systems, and turning ideas into usable products.
+I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest in software engineering, problem solving, backend systems, and building applications that solve real-world problems.
 
-- 💻 Building full-stack applications with **React, Next.js, Node.js, Express, MongoDB & PostgreSQL**
-- 🤖 Exploring **AI/ML, Computer Vision and intelligent software systems**
-- ⚡ Developing modern interfaces with **JavaScript, TypeScript & Tailwind CSS**
+- 💻 Building full-stack applications with **React, Next.js, Node.js, Express & MongoDB**
+- 🤖 Exploring **AI/ML, Computer Vision and intelligent applications**
 - 🧩 Interested in **backend engineering, system design and software architecture**
-- 📡 Building **real-time and IoT-based systems**
+- 📡 Building **IoT and real-time systems**
 - 🔗 Exploring **Blockchain, Smart Contracts and Web3**
-- 🧠 Strong focus on **DSA, problem solving and clean, maintainable code**
+- 🧠 Focused on **DSA, problem solving and clean code**
 - 🌱 Currently learning **MERN Stack, AI/ML & Cloud Technologies**
-- 💡 I enjoy building projects, experimenting with new technologies, and solving real engineering problems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
 </p>
 
-### Frontend
+**AI/ML:** Python • TensorFlow • PyTorch • Computer Vision • YOLO • Generative AI
+
+---
+
+### 💻 Software Engineering
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
 </p>
 
-### Backend & Databases
+**Development:** React • Next.js • Node.js • Express • TypeScript • JavaScript • Python • C++ • FastAPI • Tailwind CSS
+
+---
+
+### 🗄️ Databases & Infrastructure
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="42" height="42" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </p>
 
-### AI / ML / Web3 / Tools
+**Databases:** MongoDB • PostgreSQL • MySQL • Supabase • Firebase  
+**Infrastructure:** Docker • Docker Compose • Git • GitHub
+
+---
+
+### 🔗 Blockchain & Web3
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="42" height="42" alt="Solidity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="42" height="42" alt="Ethereum"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="42" height="42" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" height="42" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="45" height="45" alt="Solidity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="45" height="45" alt="Ethereum"/>
 </p>
+
+**Web3:** Solidity • Smart Contracts • Ethereum • Hardhat • Ethers.js • IPFS
+
+---
+
+### 📡 IoT & Real-Time Systems
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+</p>
+
+**Systems:** ESP32 • MQTT • Mosquitto • WebSockets • Real-Time Monitoring • Sensor Integration
 
 ---
 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/gnani66/civicly">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=gnani66&repo=civicly&theme=tokyonight&hide_border=true" alt="Civicly"/>
-  </a>
 
-  <a href="https://github.com/gnani66/money-muling-detection-rift-2026">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=gnani66&repo=money-muling-detection-rift-2026&theme=tokyonight&hide_border=true" alt="Money Muling Detection"/>
-  </a>
+<a href="https://github.com/gnani66/civicly">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=civicly&theme=tokyonight&hide_border=true" alt="Civicly"/>
+</a>
+
+<a href="https://github.com/gnani66/money-muling-detection-rift-2026">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=money-muling-detection-rift-2026&theme=tokyonight&hide_border=true" alt="Money Muling Detection"/>
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/gnani66/MentorLoop">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=gnani66&repo=MentorLoop&theme=tokyonight&hide_border=true" alt="MentorLoop"/>
-  </a>
 
-  <a href="https://github.com/gnani66/aptos-counter-dapp">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=gnani66&repo=aptos-counter-dapp&theme=tokyonight&hide_border=true" alt="Aptos Counter DApp"/>
-  </a>
+<a href="https://github.com/gnani66/MentorLoop">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=MentorLoop&theme=tokyonight&hide_border=true" alt="MentorLoop"/>
+</a>
+
+<a href="https://github.com/gnani66/aptos-counter-dapp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gnani66&repo=aptos-counter-dapp&theme=tokyonight&hide_border=true" alt="Aptos Counter DApp"/>
+</a>
+
 </p>
 
 <p align="center">
@@ -125,13 +145,13 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=gnani66&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=gnani66&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&theme=tokyonight"
     alt="GitHub Stats"
     height="180"
   />
 
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gnani66&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani66&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
     alt="Top Languages"
     height="180"
   />
@@ -173,7 +193,7 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 
 ---
 
-## 🎯 Current Learning
+## 🌱 Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-181717?style=for-the-badge" alt="MERN Stack"/>
@@ -183,8 +203,6 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 
 ---
 
-## 💡 Developer Philosophy
-
 <p align="center">
   <b>Build. Learn. Solve. Improve.</b>
 </p>
@@ -192,8 +210,6 @@ I work across **MERN Stack, AI/ML, IoT, and Blockchain**, with a strong interest
 <p align="center">
   <i>Turning ideas into working software.</i>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" alt="Footer"/>
